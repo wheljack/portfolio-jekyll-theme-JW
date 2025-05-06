@@ -9,7 +9,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
+- {name: 'My dog Kobe',   url: 'proj-1'}
 
 #-------------------------------
 # Contact Section
